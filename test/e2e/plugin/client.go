@@ -5,14 +5,14 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/fatedier/frp/pkg/transport"
-	"github.com/fatedier/frp/test/e2e/framework"
-	"github.com/fatedier/frp/test/e2e/framework/consts"
-	"github.com/fatedier/frp/test/e2e/mock/server/httpserver"
-	"github.com/fatedier/frp/test/e2e/pkg/cert"
-	"github.com/fatedier/frp/test/e2e/pkg/port"
-	"github.com/fatedier/frp/test/e2e/pkg/request"
-	"github.com/fatedier/frp/test/e2e/pkg/utils"
+	"github.com/jarvisbao/frp/pkg/transport"
+	"github.com/jarvisbao/frp/test/e2e/framework"
+	"github.com/jarvisbao/frp/test/e2e/framework/consts"
+	"github.com/jarvisbao/frp/test/e2e/mock/server/httpserver"
+	"github.com/jarvisbao/frp/test/e2e/pkg/cert"
+	"github.com/jarvisbao/frp/test/e2e/pkg/port"
+	"github.com/jarvisbao/frp/test/e2e/pkg/request"
+	"github.com/jarvisbao/frp/test/e2e/pkg/utils"
 
 	. "github.com/onsi/ginkgo"
 )

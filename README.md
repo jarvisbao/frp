@@ -1,8 +1,8 @@
 
 # frp
 
-[![Build Status](https://circleci.com/gh/fatedier/frp.svg?style=shield)](https://circleci.com/gh/fatedier/frp)
-[![GitHub release](https://img.shields.io/github/tag/fatedier/frp.svg?label=release)](https://github.com/fatedier/frp/releases)
+[![Build Status](https://circleci.com/gh/jarvisbao/frp.svg?style=shield)](https://circleci.com/gh/jarvisbao/frp)
+[![GitHub release](https://img.shields.io/github/tag/jarvisbao/frp.svg?label=release)](https://github.com/jarvisbao/frp/releases)
 
 [README](README.md) | [中文文档](README_zh.md)
 
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=frp&utm_source=github" target="_blank">
-    <img width="400px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_doppler.png">
+    <img width="400px" src="https://raw.githubusercontent.com/jarvisbao/frp/dev/doc/pic/sponsor_doppler.png">
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=frp&utm_source=github" target="_blank">
-    <img width="300px" src="https://raw.githubusercontent.com/fatedier/frp/dev/doc/pic/sponsor_workos.png">
+    <img width="300px" src="https://raw.githubusercontent.com/jarvisbao/frp/dev/doc/pic/sponsor_workos.png">
   </a>
 </p>
 
@@ -112,7 +112,7 @@ We will switch v0 to v1 at the right time and only accept bug fixes and improvem
 
 ## Example Usage
 
-Firstly, download the latest programs from [Release](https://github.com/fatedier/frp/releases) page according to your operating system and architecture.
+Firstly, download the latest programs from [Release](https://github.com/jarvisbao/frp/releases) page according to your operating system and architecture.
 
 Put `frps` and `frps.ini` onto your server A with public IP.
 
@@ -1091,12 +1091,12 @@ Find more plugins in [gofrp/plugin](https://github.com/gofrp/plugin).
 
 Interested in getting involved? We would like to help you!
 
-* Take a look at our [issues list](https://github.com/fatedier/frp/issues) and consider sending a Pull Request to **dev branch**.
+* Take a look at our [issues list](https://github.com/jarvisbao/frp/issues) and consider sending a Pull Request to **dev branch**.
 * If you want to add a new feature, please create an issue first to describe the new feature, as well as the implementation approach. Once a proposal is accepted, create an implementation of the new features and submit it as a pull request.
 * Sorry for my poor English. Improvements for this document are welcome, even some typo fixes.
 * If you have great ideas, send an email to fatedier@gmail.com.
 
-**Note: We prefer you to give your advise in [issues](https://github.com/fatedier/frp/issues), so others with a same question can search it quickly and we don't need to answer them repeatedly.**
+**Note: We prefer you to give your advise in [issues](https://github.com/jarvisbao/frp/issues), so others with a same question can search it quickly and we don't need to answer them repeatedly.**
 
 ## Donation
 
