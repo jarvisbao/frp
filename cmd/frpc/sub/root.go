@@ -26,11 +26,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/fatedier/frp/client"
-	"github.com/fatedier/frp/pkg/auth"
-	"github.com/fatedier/frp/pkg/config"
-	"github.com/fatedier/frp/pkg/util/log"
-	"github.com/fatedier/frp/pkg/util/version"
+	"github.com/jarvisbao/frp/client"
+	"github.com/jarvisbao/frp/pkg/auth"
+	"github.com/jarvisbao/frp/pkg/config"
+	"github.com/jarvisbao/frp/pkg/util/log"
+	"github.com/jarvisbao/frp/pkg/util/version"
 
 	"github.com/spf13/cobra"
 )
@@ -96,7 +96,7 @@ func RegisterCommonFlags(cmd *cobra.Command) {
 
 var rootCmd = &cobra.Command{
 	Use:   "frpc",
-	Short: "frpc is the client of frp (https://github.com/fatedier/frp)",
+	Short: "frpc is the client of frp (https://github.com/jarvisbao/frp)",
 	RunE: func(cmd *cobra.Command, args []string) error {
 		if showVersion {
 			fmt.Println(version.Full())
